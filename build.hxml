@@ -1,0 +1,6 @@
+-cp Source
+-D net-ver=40
+-net-lib C:\Program Files (x86)\Unity\Editor\Data\Managed\UnityEngine.dll
+-cs Assets/Code
+-D no-compilation
+Main
